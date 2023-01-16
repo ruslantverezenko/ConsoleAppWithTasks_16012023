@@ -1,0 +1,7 @@
+C:\Users\Q\source\repos\ConsoleAppWithTasks_16012023\ConsoleAppWithTasks_16012023\obj\Debug\ConsoleAppWithTasks_16012023.csprojAssemblyReference.cache
+C:\Users\Q\source\repos\ConsoleAppWithTasks_16012023\ConsoleAppWithTasks_16012023\obj\Debug\ConsoleAppWithTasks_16012023.csproj.CoreCompileInputs.cache
+C:\Users\Q\source\repos\ConsoleAppWithTasks_16012023\ConsoleAppWithTasks_16012023\bin\Debug\ConsoleAppWithTasks_16012023.exe.config
+C:\Users\Q\source\repos\ConsoleAppWithTasks_16012023\ConsoleAppWithTasks_16012023\bin\Debug\ConsoleAppWithTasks_16012023.exe
+C:\Users\Q\source\repos\ConsoleAppWithTasks_16012023\ConsoleAppWithTasks_16012023\bin\Debug\ConsoleAppWithTasks_16012023.pdb
+C:\Users\Q\source\repos\ConsoleAppWithTasks_16012023\ConsoleAppWithTasks_16012023\obj\Debug\ConsoleAppWithTasks_16012023.exe
+C:\Users\Q\source\repos\ConsoleAppWithTasks_16012023\ConsoleAppWithTasks_16012023\obj\Debug\ConsoleAppWithTasks_16012023.pdb
